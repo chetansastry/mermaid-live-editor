@@ -28,8 +28,8 @@ C -->|Three| F[Car]
 export const defaultState = {
   code: defaultCode,
   mermaid: {
-    theme: 'default',
-    flowChart: {
+    theme: 'neutral',
+    flowchart: {
       curve: 'basis'
     }
   }
